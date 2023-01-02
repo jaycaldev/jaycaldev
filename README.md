@@ -1,8 +1,12 @@
 # 🧑‍💻 Jay Calderon
 **`Digital Artisan (Student/Full-Stack Web Developer/Creative/Cyclist)`**
 
-I'm a student and full-stack web developer building my ideas and stories one step at a time. All my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
-All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+I am a student full-stack web developer with a passion for creating functional and visually appealing websites. I am building my ideas one line of code at a time. I have experience with a variety of technologies, including HTML, CSS, JavaScript, and various frameworks such as React and Angular.
+
+All my coding projects are built from the ground up, from planning and designing all the way to finalizing the content with artistic touches.
+On my profile, you will find a selection of projects that showcase my skills and development style.
+
+I am always looking to learn and improve my skills, and am open to new opportunities and collaborations. Feel free to reach out to me through my Linkedin or via email if you have any questions or want to work together!
 
    <p align="left">
       <a href="https://github.com/Jay-Calderon?tab=followers">
@@ -31,7 +35,7 @@ All video content is built the same way, from ideation and planning, all the way
 <details>
  <summary><h3>👨‍💻 Jay's Coding Journey</h3></summary>
 As a child, I loved building computer desktops with my father which then got me interested into game development. I started my coding journey as a naive teenager studying computer science and game development in high school with a passion to learn everything I could about creating software - javascript, react, python, and theory. 
-And all the while, teaching myself web development with a dream to build my own social websites, but eventually I developed a desire to excel in Python. Currently, I am still studying at Algonquin College in the Web Development and Internet Applications program. I am always striving on building my skills everyday even outside of school.
+All the while, teaching myself web development with a dream to build my own social websites, but eventually I developed a desire to excel in Python. Currently, I am still studying at Algonquin College in the Web Development and Internet Applications program. I am always striving on building my skills everyday even outside of school.
 </details>
 
 ---
