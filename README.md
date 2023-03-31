@@ -1,7 +1,10 @@
-# 🧑‍💻 Jay Calderon
+# 👨🏽‍💻 Jay Calderon
 **`Digital Artisan (Student/Full-Stack Web Developer/Creative/Cyclist)`**
 
 <p align="center">
+<a href="https://jaycalderon.com">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
 <a href="https://www.linkedin.com/in/jaycalderone">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
