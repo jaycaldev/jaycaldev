@@ -39,7 +39,7 @@ hobbies: ["Fitness", "Cycling", "Video Games"]
 ```
 
 </p>
-I am a student full-stack web developer with a passion for creating functional and visually appealing websites. I am building my ideas one line of code at a time. I have experience with a variety of technologies, including HTML, CSS, JavaScript, and various frameworks such as React and Angular.
+I am a student full-stack web developer with a passion for creating functional and visually appealing websites. I am building my ideas one line of code at a time. I have experience with a variety of technologies, including JavaScript, Python, CSS and various frameworks such as React and Angular.
 
 All my coding projects are built from the ground up, from planning and designing all the way to finalizing the content with artistic touches.
 On my profile, you will find a selection of projects that showcase my skills and development style.
