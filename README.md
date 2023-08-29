@@ -85,4 +85,6 @@ All the while, teaching myself web development with a dream to build my own soci
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Jay-Calderon&theme=dark&border_radius=4.5) -->
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6442bfd3e2725773749420b8?variant=dark" alt="roadmap.sh"/></a>
+
 #
