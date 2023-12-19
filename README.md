@@ -6,6 +6,21 @@
 <a href="https://jaycalderon.ca">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
+
+## 💫 About Me:
+I am a student full-stack web developer with a passion for creating functional and visually appealing websites and applications. I am building my ideas one line of code at a time. I have experience with a variety of technologies, including JavaScript, Python, Swift, Kotlin, TailwindCSS, Adobe Illustrator, and various frameworks such as React.
+<br><br>
+All my coding projects are built from the ground up, from planning and designing all the way to finalizing the content with artistic touches. On my profile, you will find a selection of projects that showcase my skills and development style.
+<br><br>
+I am always looking to learn and improve my skills, and am open to new opportunities and collaborations. Feel free to reach out to me through my LinkedIn or via email if you have any questions or want to work together!
+
+## 🌐 Socials:
+[![Portfolio Site](https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white)](https://jaycalderon.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaycalderone) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18562756) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jaycaldev)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black)]([https://twitter.com/jaycaldev](https://leetcode.com/Jay-Calderon)) 
+
    
  ```yaml
 name: Jay Calderon
@@ -29,22 +44,6 @@ currently_learning:
 
 hobbies: ["Fitness", "Cycling", "Video Games"]
 ```
-
-## 💫 About Me:
-I am a student full-stack web developer with a passion for creating functional and visually appealing websites and applications. I am building my ideas one line of code at a time. I have experience with a variety of technologies, including JavaScript, Python, Swift, Kotlin, TailwindCSS, Adobe Illustrator, and various frameworks such as React.
-<br><br>
-All my coding projects are built from the ground up, from planning and designing all the way to finalizing the content with artistic touches. On my profile, you will find a selection of projects that showcase my skills and development style.
-<br><br>
-I am always looking to learn and improve my skills, and am open to new opportunities and collaborations. Feel free to reach out to me through my LinkedIn or via email if you have any questions or want to work together!
-
----
-
-## 🌐 Socials:
-[![Portfolio Site](https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white)](https://jaycalderon.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaycalderone) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18562756) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jaycaldev)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black)]([https://twitter.com/jaycaldev](https://leetcode.com/Jay-Calderon)) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
