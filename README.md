@@ -1,18 +1,10 @@
 # 👨🏽‍💻 Jay Calderon
-**`Digital Artisan (Student/Full-Stack Web Developer/Creative/Cyclist)`**
+
+**`Digital Artisan (Full-Stack Web Development Student & Creative)`**
 
 <p align="center">
-<a href="https://jaycalderon.com">
+<a href="https://jaycalderon.ca">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/jaycalderone">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://dev.to/jaycalderon">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
-<a href="https://twitter.com/CalderoneJay">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
    
  ```yaml
@@ -33,58 +25,56 @@ fields_of_interests:
   ]
 
 currently_learning:
-  ["Javascript, React, Python, and SQL"]
+  ["Javascript", "Tailwind", "Python", "SQL"]
 
 hobbies: ["Fitness", "Cycling", "Video Games"]
 ```
 
-</p>
-I am a student full-stack web developer with a passion for creating functional and visually appealing websites. I am building my ideas one line of code at a time. I have experience with a variety of technologies, including JavaScript, Python, CSS and various frameworks such as React and Angular.
-
-All my coding projects are built from the ground up, from planning and designing all the way to finalizing the content with artistic touches.
-On my profile, you will find a selection of projects that showcase my skills and development style.
-
-I am always looking to learn and improve my skills, and am open to new opportunities and collaborations. Feel free to reach out to me through my Linkedin or via email if you have any questions or want to work together!
-
-   <p align="left">
-      <a href="https://github.com/Jay-Calderon?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jay-Calderon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Jay-Calderon?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jay-Calderon?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
-  
-### 🧰 Languages and Tools I learn or I am Learning!
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
-<br />
-
-#
-
-<details>
- <summary><h3>👨‍💻 Jay's Coding Journey</h3></summary>
-As a child, I loved building computer desktops with my father which then got me interested into game development. I started my coding journey as a naive teenager studying computer science and game development in high school with a passion to learn everything I could about creating software - javascript, react, python, and theory. 
-All the while, teaching myself web development with a dream to build my own social websites, but eventually I developed a desire to excel in Python. Currently, I am still studying at Algonquin College in the Mobile Application Design and Development program. I am always striving on building my skills everyday even outside of school.
-</details>
+## 💫 About Me:
+I am a student full-stack web developer with a passion for creating functional and visually appealing websites and applications. I am building my ideas one line of code at a time. I have experience with a variety of technologies, including JavaScript, Python, Swift, Kotlin, TailwindCSS, Adobe Illustrator, and various frameworks such as React.
+<br><br>
+All my coding projects are built from the ground up, from planning and designing all the way to finalizing the content with artistic touches. On my profile, you will find a selection of projects that showcase my skills and development style.
+<br><br>
+I am always looking to learn and improve my skills, and am open to new opportunities and collaborations. Feel free to reach out to me through my LinkedIn or via email if you have any questions or want to work together!
 
 ---
 
-### 📊 Stats
+## 🌐 Socials:
+[![Portfolio Site](https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white)](https://jaycalderon.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaycalderone) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18562756) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jaycaldev)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black)]([https://twitter.com/jaycaldev](https://leetcode.com/Jay-Calderon)) 
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-calderon&show_icons=true&theme=dark)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Jay-Calderon&theme=dark&border_radius=4.5) -->
+---
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6442bfd3e2725773749420b8?variant=dark" alt="roadmap.sh"/></a>
+![LeetCode Stats](https://leetcode.card.workers.dev/Jay-Calderon?theme=dark&font=source_code_pro&extension=null)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cald0145&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cald0145&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cald0145&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 #
