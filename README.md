@@ -1,18 +1,6 @@
-# 👨🏽‍💻 Jay Calderon
+# 👨🏽‍💻 Hey! My Name Is Jay Calderon
 
 **`Digital Artisan (Full-Stack Web Development Student & Creative)`**
-
-<p align="center">
-<a href="https://jaycalderon.ca">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-
-## 💫 About Me:
-I am a student full-stack web developer with a passion for creating functional and visually appealing websites and applications. I am building my ideas one line of code at a time. I have experience with a variety of technologies, including JavaScript, Python, Swift, Kotlin, TailwindCSS, Adobe Illustrator, and various frameworks such as React.
-<br><br>
-All my coding projects are built from the ground up, from planning and designing all the way to finalizing the content with artistic touches. On my profile, you will find a selection of projects that showcase my skills and development style.
-<br><br>
-I am always looking to learn and improve my skills, and am open to new opportunities and collaborations. Feel free to reach out to me through my LinkedIn or via email if you have any questions or want to work together!
 
 ## 🌐 Socials:
 [![Portfolio Site](https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white)](https://jaycalderon.ca)
@@ -21,6 +9,12 @@ I am always looking to learn and improve my skills, and am open to new opportuni
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jaycaldev)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black)]([https://twitter.com/jaycaldev](https://leetcode.com/Jay-Calderon)) 
 
+## 💫 About Me:
+I am a student full-stack web developer with a passion for creating functional and visually appealing websites and applications. I am building my ideas one line of code at a time. I have experience with a variety of technologies shown below!
+<br><br>
+All my coding projects are built from the ground up, from planning and designing all the way to finalizing the content with artistic touches. On my profile, you will find a selection of projects that showcase my skills and development style.
+<br><br>
+I am always looking to learn and improve my skills, and am open to new opportunities and collaborations. Feel free to reach out to me through my LinkedIn or via email if you have any questions or want to work together!
    
  ```yaml
 name: Jay Calderon
@@ -69,11 +63,7 @@ hobbies: ["Fitness", "Cycling", "Video Games"]
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ---
+# LeetCode!
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Jay-Calderon?theme=dark&font=source_code_pro&extension=null)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cald0145&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cald0145&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cald0145&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-#
