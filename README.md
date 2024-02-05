@@ -3,11 +3,11 @@
 **`Digital Artisan (Full-Stack Web Development Student & Creative)`**
 
 ## 🌐 Socials:
-[![Portfolio Site](https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white)](https://jaycalderon.ca)
+[![Portfolio Site](https://img.shields.io/badge/website-000000?logo=About.me&logoColor=white)](https://jaycalderon.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaycalderone) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18562756) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jaycaldev)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black)]([https://twitter.com/jaycaldev](https://leetcode.com/Jay-Calderon)) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/Jay-Calderon) 
 
 ## 💫 About Me:
 I am a student full-stack web developer with a passion for creating functional and visually appealing websites and applications. I am building my ideas one line of code at a time. I have experience with a variety of technologies shown below!
