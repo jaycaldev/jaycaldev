@@ -34,7 +34,7 @@ fields_of_interests:
   ]
 
 currently_learning:
-  ["Javascript", "Tailwind", "Python", "SQL"]
+  ["Javascript", "React", "NPM", "NodeJS", "TailwindCSS", "Python", "NoSQL", "Figma"]
 
 hobbies: ["Fitness", "Cycling", "Video Games"]
 ```
