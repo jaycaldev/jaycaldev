@@ -2,7 +2,7 @@
 
 **`Digital Artisan (Full-Stack Web Development Student & Creative)`**
 
-### 🌐 - [Website](https://jaycalderon.com)
+### 🌐 - [Website](https://jaycalderon.ca)
 
 ### 💫 About:
 
