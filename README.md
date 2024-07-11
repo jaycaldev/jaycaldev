@@ -2,7 +2,7 @@
 
 **`Digital Artisan (Full-Stack Web Development Student & Creative)`**
 
-### 🌐 - [Website](https://jaycalderon.ca)
+### 🌐 - [Check out my website for more about me!](https://jaycalderon.ca)
 
 ### 💫 About:
 
@@ -11,7 +11,7 @@ located_in: Ottawa, Ontario
 current_job: Web Dev Student
 education:
   [
-    "Algonquin College Mobile Application Design and Development"
+    "Algonquin College Mobile Application Design and Development, Third Semester, Year 2/2"
   ]
 
 fields_of_interests:
