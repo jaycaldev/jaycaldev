@@ -1,6 +1,6 @@
 ## Hey there! 👨🏽‍💻
 
-**`Digital Artisan (Frontend Designer/Developer Student & Creative)`**
+**`Digital Artisan (UI/UX Design & Frontend Development)`**
 
 ### 🌐 - [Check out my website for more about me!](https://jaycalderon.ca)
 
@@ -8,19 +8,19 @@
 
  ```yaml
 located_in: Ottawa, Ontario
-current_job: Web Dev/Design Student
+current_job: Designer & Developer
 education:
   [
-    "Algonquin College Mobile Application Design and Development, Final Semester, Year 2/2"
+    "Algonquin College Mobile Application Design and Development, Class of 2025"
   ]
 
 fields_of_interests:
   [
-    "Web Development", "UI/UX Design", "Mobile Development", "CyberSecurity", "Machine Learning"
+    "UI/UX Design", "Full-Stack Development", "CyberSecurity", "Machine Learning"
   ]
 
 currently_learning:
-  ["TypeScript", "Astro", "React", "Swift", "Figma", "Tailwind", "MongoDB"]
+  ["React Native", "SwiftUI", "Expo", "Figma", "AI Model APIs", "TailwindCSS"]
 
 hobbies: ["Running", "Cycling", "Video Games", "Reading"]
 ```
